@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+module ${1:name}
+	${2}
+end
+]]></content>
+	<tabTrigger>module</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
+

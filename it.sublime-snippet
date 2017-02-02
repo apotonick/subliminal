@@ -1,0 +1,10 @@
+
+<snippet>
+	<content><![CDATA[
+it "${1:what}" do
+	${2}
+end
+]]></content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
