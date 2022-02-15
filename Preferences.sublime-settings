@@ -2,8 +2,17 @@
 	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	// enable auto_complete in comments, too!
+	"auto_complete_selector": "meta.tag, source, comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+
 }
